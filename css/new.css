@@ -1,0 +1,50 @@
+body {
+    background-color: royalblue !important;
+
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color: gray;
+    font-size: 10cap;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: wheat;
+}
+.list {
+    border-style: dashed ;
+    border-left: 30px;
+    color: antiquewhite;
+}
+
+.youtube {
+    border: whitesmoke;
+    border-style: dotted 30px;
+    border-width: 4px;
+    margin: 5px;
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: crimson;
+    border: red;
+    border-width: 5px;
+    padding: 5px;
+}
+
+.border {
+    border-width: 30px;
+    border: 5px;
+    border-style: double;
+  border-color: aquamarine;
+}
+.hearn{
+    border-style: groove;
+    border-width: 30px;
+    border-color: beige;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
